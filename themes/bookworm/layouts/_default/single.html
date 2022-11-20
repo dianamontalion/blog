@@ -93,7 +93,7 @@
               <div class="col">
                 <p class="font-primary mb-1">{{i18n "written_by"}}</p>
                 <h4 class="h5"><a href="{{.Permalink}}" class="text-dark font-weight-700">{{.Title}}</a></h4>
-                <p class="font-primary">{{ .Summary | truncate 250 }}</p>
+                <p class="font-primary">{{ .Summary | truncate 1000 }}</p>
                 <ul class="social-links list-unstyled list-inline ms-0 ms-sm-n2">
                   {{ range .Params.social }}
                   <li class="list-inline-item"><a href="{{.link | safeURL}}">
