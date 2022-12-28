@@ -2,12 +2,11 @@
 title: "Educating at home during viral times"
 date:   2020-03-14 08:40:35 +0300
 lastmod:   2020-03-14 08:40:35 +0300
-#tags:   Home
+tags: ["Learning"]
 summary: "In the midst of the pandemic, many colleagues are working while their kids are schooling at home. A few have asked, via social media, for strategies. Having homeschooled for ten years, I have some! Here they are."
 categories: ["Year of Enough"]
+images: ["/images/girl-reading.jpg"]
 ---
-![Girl reading](/images/girl-reading.jpg)
-
 I began homeschooling the day my son's second grade teacher called to say "the whole class was kept in from recess today, with their heads down, because your son didn't finish his math work."
 
 My son didn't sit silently at his desk and complete a single-digit addition worksheet,  2+6, 4+3 etc. Instead, he stared out the window, kicking his feet to the beat of an imaginary song.

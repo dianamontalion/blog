@@ -5,8 +5,20 @@ lastmod: 2021-03-09 07:40:35 +0300
 summary: "This week, my intention was to be more mindful when attending online work meetings. As I did, I noticed something: I’ve constructed a Me Who Goes to Meetings."
 categories: ["Mindful Work"]
 tags: ["Mindful Work"]
-images: ["/images/statue-liberty.jpg"]
+images: 
+ - "/images/statue-liberty.jpg"
 draft: true
+---
+
+---
+title: "What you need to know about Photography"
+images:
+  - "images/post/07.jpg"
+date: 2021-01-24T18:19:25+06:00
+author: "Lubana Era"
+tags: ["Photography"]
+categories: ["Photography"]
+draft: false
 ---
 I am in the room that was, before Covid, the guest room. The bed is gone and I'm sitting at my French-style wooden desk that I found at Restore and painted purple with Annie's Chalk paint. The upholstered chair under me also came from Restore, a perfect match for the desk, with Purple seat and back cushions added to make it comfie.
 
