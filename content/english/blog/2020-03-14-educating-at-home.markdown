@@ -1,5 +1,6 @@
 ---
 title: "Educating at home during viral times"
+author: "Diana Montalion"
 date:   2020-03-14 08:40:35 +0300
 lastmod:   2020-03-14 08:40:35 +0300
 tags: ["Learning"]

@@ -1,5 +1,6 @@
 ---
 title:  Christmas enough
+author: "Diana Montalion"
 date:  2019-12-25 16:20:35 +0300
 lastmod:  2019-12-25 16:20:35 +0300
 tags:  ["Socializing"]

@@ -1,5 +1,6 @@
 ---
 title: 'Hit the Road, Jack'
+author: "Diana Montalion"
 date: 2018-06-30 00:00:01
 lastmod: 2018-06-30 00:00:01
 summary: In two days, I leave on a month-long, drag-an-RV-behind-the-truck road trip. What - the frack - am I doing?

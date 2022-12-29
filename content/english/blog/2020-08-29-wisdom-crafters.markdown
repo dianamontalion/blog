@@ -1,5 +1,6 @@
 ---
 title: "Wisdom crafters"
+author: "Diana Montalion"
 date:   2020-08-28 07:40:35 +0300
 lastmod:   2020-08-28 07:40:35 +0300
 tags:  ["Self-awareness"]

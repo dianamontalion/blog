@@ -1,5 +1,6 @@
 ---
 title: 'Wake up, Maggie'
+author: "Diana Montalion"
 date: 2018-06-30 00:00:00
 lastmod: 2018-06-30 00:00:00
 summary: '"Wake up" is a marvelous goal for a roadtrip! Both the surface meaning “enjoy each morning on the road, even when you’re exhausted” and the deeper meaning “seeing yourself all-too clearly is true freedom.'

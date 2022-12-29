@@ -1,5 +1,6 @@
 ---
 title: "And then it got hard"
+author: "Diana Montalion"
 date:   2020-02-10 16:40:35 +0300
 lastmod:   2020-02-10 16:40:35 +0300
 tags:  ["Self-awareness"]

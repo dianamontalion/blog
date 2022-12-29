@@ -1,5 +1,6 @@
 ---
 title:  "Year of Enough"
+author: "Diana Montalion"
 date:   2019-12-21 18:05:55 +0300
 lastmod: 2019-12-21 18:05:55 +0300
 draft: false

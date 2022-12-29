@@ -1,5 +1,6 @@
 ---
 title: "Doing enough: the first of many"
+author: "Diana Montalion"
 date:   2019-12-28 16:40:35 +0300
 lastmod:   2019-12-28 16:40:35 +0300
 tags:  ["Doing"]

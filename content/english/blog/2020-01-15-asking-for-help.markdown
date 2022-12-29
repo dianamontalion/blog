@@ -1,5 +1,6 @@
 ---
 title: "Asking for help"
+author: "Diana Montalion"
 date:   2020-01-15 16:40:35 +0300
 lastmod:   2020-01-15 16:40:35 +0300
 image: huddle.jpg

@@ -1,5 +1,6 @@
 ---
 title: "In the midst of this"
+author: "Diana Montalion"
 date:   2020-04-04 07:40:35 +0300
 lastmod:   2020-04-04 07:40:35 +0300
 tags:  ["Self-awareness"]

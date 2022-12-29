@@ -1,5 +1,6 @@
 ---
 title: "Enough of what? An exercise."
+author: "Diana Montalion"
 date:   2020-01-02 16:40:35 +0300
 lastmod:   2020-01-02 16:40:35 +0300
 tags:  ["Stuff"]

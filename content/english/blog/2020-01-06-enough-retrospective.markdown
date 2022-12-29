@@ -1,5 +1,6 @@
 ---
 title: "The enough retrospective"
+author: "Diana Montalion"
 date:   2020-01-06 16:40:35 +0300
 lastmod:   2020-01-06 16:40:35 +0300
 tags:   ["Practice"]

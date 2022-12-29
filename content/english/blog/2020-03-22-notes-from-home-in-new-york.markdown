@@ -1,5 +1,6 @@
 ---
 title: "Notes from our home in New York"
+author: "Diana Montalion"
 date:   2020-03-22 07:40:35 +0300
 lastmod:   2020-03-22 07:40:35 +0300
 tags:  ["Home"]

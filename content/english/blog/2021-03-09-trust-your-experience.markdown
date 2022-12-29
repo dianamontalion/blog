@@ -1,5 +1,6 @@
 ---
 title: "Trust Your Experience"
+author: "Diana Montalion"
 date: 2021-03-09 09:17
 lastmod: 2021-03-09 07:40:35 +0300
 summary: "When your experience is totally out of synch with the world around you -- what do you trust?"

@@ -1,5 +1,6 @@
 ---
 title: "Blurring the edges"
+author: "Diana Montalion"
 date:   2020-01-04 16:40:35 +0300
 lastmod:   2020-01-04 16:40:35 +0300
 tags:  ["Doing"]

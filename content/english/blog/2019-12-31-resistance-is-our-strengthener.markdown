@@ -1,5 +1,6 @@
 ---
 title: "Resistance is our strengthener"
+author: "Diana Montalion"
 date:   2019-12-31 16:40:35 +0300
 lastmod:   2019-12-31 16:40:35 +0300
 tags:  ["Doing"]

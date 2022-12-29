@@ -1,5 +1,6 @@
 ---
 title:  Into the inner garden
+author: "Diana Montalion"
 date:   2019-12-22 16:30:35 +0300
 lastmod:   2019-12-22 16:30:35 +0300
 tags:  ["Goddess"]

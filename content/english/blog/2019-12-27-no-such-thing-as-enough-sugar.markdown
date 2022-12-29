@@ -1,5 +1,6 @@
 ---
 title:  There's no such thing as enough sugar
+author: "Diana Montalion"
 date:   2019-12-27 16:40:35 +0300
 lastmod:   2019-12-27 16:40:35 +0300
 tags:  ["Food"]

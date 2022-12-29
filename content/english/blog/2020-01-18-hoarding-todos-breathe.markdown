@@ -1,5 +1,6 @@
 ---
 title: "Stop hoarding todos and breathe"
+author: "Diana Montalion"
 date:   2020-01-17 16:40:35 +0300
 lastmod:   2020-01-17 16:40:35 +0300
 tags:  ["Doing"]

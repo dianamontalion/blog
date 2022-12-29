@@ -1,5 +1,6 @@
 ---
 title: 'Road Trip Pics'
+author: "Diana Montalion"
 date: 2019-03-20 00:00:00
 lastmod: 2019-03-20 00:00:00
 Summary: 'In the fall of 2018, we took a month-long road trip, towing a 25 foot travel trailer. Here are some highlights.'
