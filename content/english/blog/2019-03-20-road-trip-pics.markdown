@@ -4,6 +4,8 @@ date: 2019-03-20 00:00:00
 lastmod: 2019-03-20 00:00:00
 Summary: 'In the fall of 2018, we took a month-long road trip, towing a 25 foot travel trailer. Here are some highlights.'
 categories: ["Road Trip 2018"]
+categories: ["Travel"]
+images: ["/images/2018-road-trip/rt-1.jpg"]
 ---
 <a data-fancybox="gallery" href="/images/2018-road-trip/rt-1.jpg">
     <img src="/images/2018-road-trip/rt-1.jpg">

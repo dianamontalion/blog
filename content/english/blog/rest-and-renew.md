@@ -5,10 +5,10 @@ lastmod: 2021-01-04T00:00:00+08:00
 draft: false
 #tags: ["tag1", "tag2"]
 categories: ["Self-awareness"]
-summary: "I've learned essential lessons about rest and renewal over the last decade. For example, I (surprisingly) discovered that choosing to renew my energy is the most trustworthy bellwether of career satisfaction and success. Which surprised me. Pushing _less_ hard has always seemed counterintuitive."
+summary: "I've learned essential lessons about rest and renewal over the last decade. For example, renewing my energy is the most trustworthy bellwether of career satisfaction and success. Which surprised me. Pushing _less_ hard is counterintuitive."
 autoCollapseToc: false
+images: ["/images/rest-renew.jpg"]
 ---
-![Purple garden gate](/images/rest-renew.jpg)
 
 # Resting and renewing
 It is mid-November, fall, where I live. Only kale and brussel sprouts remain in the garden. Soon, I'll tuck straw over the beds, like a blanket, so compost can nourish the soil through the winter. My garden is moving into rest and renew phase.

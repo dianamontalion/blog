@@ -2,12 +2,12 @@
 title:  Into the inner garden
 date:   2019-12-22 16:30:35 +0300
 lastmod:   2019-12-22 16:30:35 +0300
-#tags:   Goddess
+tags:  ["Goddess"]
 summary: "In the center of my inner world, there is a garden. I have arrived here. Just in time for the holidays."
 draft: false
 categories: ["Year of Enough"]
+images: ["/images/garden-gate.jpg"]
 ---
-![Garden gate](/images/garden-gate.jpg)
 
 In the center of my inner world, there is a garden. I have arrived here. I am speaking metaphorically of course, but metaphor is real too. When a change manifests in our lives, it often began as a subconscious reshaping of a story. We reconstruct our inner world to accommodate a new view. We make space. With practice, we are able to envision that space as easily as remembering a pleasant day at the beach.
 

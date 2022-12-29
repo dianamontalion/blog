@@ -2,11 +2,11 @@
 title: "Stop hoarding todos and breathe"
 date:   2020-01-17 16:40:35 +0300
 lastmod:   2020-01-17 16:40:35 +0300
-#tags:   Doing
+tags:  ["Doing"]
 summary: "What I do is balanced and supported by all I don't do. I've never been great at balance. Or taking deep breaths. Seems I'm learning both now."
 categories: ["Year of Enough"]
+images: ["/images/breathe-above-water.jpg"]
 ---
-![Breathe above water](/images/breathe-above-water.jpg)
 
 The first draft of this post opened with "while setting up Todoist and integrating it with all devices, I ..." Then I was struck by how that sounds. I was unironically setting up a crack den after realizing that I'm a crack addict. (See [the last post](https://yearofenough.com/2020/01/15/asking-for-help/) and [this post](https://yearofenough.com/2019/12/28/doing-enough-coming-out/) for explanation.) Leveling up my crack accoutrements rather than, you know, going to rehab.
 

@@ -2,11 +2,11 @@
 title:  What are you doing New Years?
 date:   2019-12-23 16:10:35 +0300
 lastmod:   2019-12-23 16:10:35 +0300
-#tags:   Socializing
+tags:   ["Socializing"]
 summary: "Who gets 'a thousand invitations'? How many invitations are enough? What are *you* doing New Year's eve?"
 categories: ["Year of Enough"]
+images: ["/images/new-year-hourglass.jpg"]
 ---
-![New Year Hourglass](/images/new-year-hourglass.jpg)
 
 The song, [What are you doing New Year's Eve](https://www.youtube.com/watch?v=FIcuK7wW8bU) is playing constantly. I always wonder, "who gets a thousand invitations?"
 

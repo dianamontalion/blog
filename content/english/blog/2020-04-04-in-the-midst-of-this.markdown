@@ -2,11 +2,11 @@
 title: "In the midst of this"
 date:   2020-04-04 07:40:35 +0300
 lastmod:   2020-04-04 07:40:35 +0300
-#tags:   Self-awareness
+tags:  ["Self-awareness"]
 summary: "In the midst of the pandemic, during a retreat, I take a breath. When I stop constantly swimming towards more, I discover enough."
 categories: ["Year of Enough"]
+images: ["/images/drop-in-midst.jpg"]
 ---
-![Drop in midst](/images/drop-in-midst.jpg)
 
 Last month, I participated in an online women's meditation retreat. The [original retreat, with teachers I first met 25 years ago](https://www.dharma.org/retreats/552), was (of course) cancelled. A simpler version was offered via Zoom instead. I'm not sure what I expected but whatever my expectations were, they were a dim version of reality. The retreat was a life preserver floating by while I'm dog paddling on a stormy sea. I didn't realize I was in the water, over my head, trying desperately to stay busy and distracted, until I grabbed hold and caught my breath.
 

@@ -4,10 +4,9 @@ date: 2018-06-30 00:00:01
 lastmod: 2018-06-30 00:00:01
 summary: In two days, I leave on a month-long, drag-an-RV-behind-the-truck road trip. What - the frack - am I doing?
 categories: ["Road Trip 2018"]
+tags: ["Travel"]
+images: ["/images/packing-up.jpg"]
 ---
-
-![](/images/packing-up.jpg)
-
 Today, I am packing easy-care outdoor clothes, precooking stews, cleaning the house and bathing the ferret. In two days, I leave on a month long, drag-an-RV-behind-the-truck road trip with my husband and two dogs (14 and 7 months old). Current status: What.thefrack.am.I.doing?
 
 I started writing a fluffy-pancakes (with recipes!) helpful, breezy post as entrée into the world of adventure travel blogging. Writing teachers say focus on the ‘you’ voice, write for your audience. Not the “I” voice. Alas,  _I_  don’t know what  _you_  need. (Hey, what’s up?)

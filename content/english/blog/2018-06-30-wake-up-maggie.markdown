@@ -4,9 +4,9 @@ date: 2018-06-30 00:00:00
 lastmod: 2018-06-30 00:00:00
 summary: '"Wake up" is a marvelous goal for a roadtrip! Both the surface meaning “enjoy each morning on the road, even when you’re exhausted” and the deeper meaning “seeing yourself all-too clearly is true freedom.'
 categories: ["Road Trip 2018"]
+tags: ["Travel"]
+images: ["/images/pa-rv-joy.jpg"]
 ---
-
-![](/images/pa-rv-joy.jpg)
 
 Initially, this post was a cleverly-titled (see previous) exploration of the first two, exhausting, road trip days. This morning (day three) I was dragged from dreamland at 6:15am by the 7-mos-old puppy barking to go out. Both puppies (is 15 months old still a puppy?) sleep freely in the main space; we sleep behind a closed bedroom door.
 

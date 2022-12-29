@@ -1,14 +1,13 @@
 ---
 title: "Personhood"
+author: "Diana Montalion"
 date:   2021-03-07 07:40:35 +0300
 lastmod:   2021-03-07 07:40:35 +0300
-#tags:   Self-awareness
+tags:  ["Self-awareness"]
 summary: "This week, my intention was to be more mindful when attending online work meetings. As I did, I noticed something: I’ve constructed a Me Who Goes to Meetings."
 categories: ["Mindful Work"]
 images: ["/images/statue-liberty.jpg"]
 ---
-![statue of liberty](/images/statue-liberty.jpg)
-
 This week, my intention was to be more mindful when attending online work meetings. As I did, I noticed something: I’ve constructed a Me Who Goes to Meetings.
 
 ## Me Who Goes to Meetings

@@ -2,11 +2,11 @@
 title: "The enough retrospective"
 date:   2020-01-06 16:40:35 +0300
 lastmod:   2020-01-06 16:40:35 +0300
-#tags:   Practice
+tags:   ["Practice"]
 summary: "When I look back on the last ten years, I can see where I've experienced enough. Where I haven't. And how I can change so the next ten years are more than enough. Wanna try?"
 categories: ["Year of Enough"]
+images: ["/images/canoe.jpg"]
 ---
-![Canoe](/images/canoe.jpg)
 
 I retrospect regularly. Retrospectives are done during Agile software development, which is how I learned about them. They are exercises that create cohesiveness and self-governance in teams. They also create cohesiveness among my family. For example, we always retrospect on the way home from vacations.
 

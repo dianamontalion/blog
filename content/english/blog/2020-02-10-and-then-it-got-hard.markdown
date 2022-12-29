@@ -2,12 +2,11 @@
 title: "And then it got hard"
 date:   2020-02-10 16:40:35 +0300
 lastmod:   2020-02-10 16:40:35 +0300
-image: sun-on-horizon.jpg
-#tags:   Self-awareness
+tags:  ["Self-awareness"]
 summary: "It has been three weeks since I posted. In part because some difficult work consumed my writing energy. But mostly, because I ran smack into something I didn't want to say out loud."
 categories: ["Year of Enough"]
+images: ["/images/sun-on-horizon.jpg"]
 ---
-![Sun on horizon](/images/sun-on-horizon.jpg)
 
 I am back in my study after a week in Amsterdam. I gave a talk at a [conference](https://dddeurope.com/2020/), which may sound commonplace but the experience was uncommon for me. The preparation work and the trip itself were a rare opportunity to be (mostly) myself. People presume that I am always myself because I seem authentic (mostly I am) and honest (I am). But the truth is, I rarely express my thinking the way that I think it.
 

@@ -2,11 +2,11 @@
 title: "Resistance is our strengthener"
 date:   2019-12-31 16:40:35 +0300
 lastmod:   2019-12-31 16:40:35 +0300
-#tags:   Doing
+tags:  ["Doing"]
 summary: "My inner resistance to this practice is solidifying, concretizing. Simultanously, I am developing muscles I've never had and always needed."
 categories: ["Year of Enough"]
+images: ["/images/lion.jpg"]
 ---
-![Lion](/images/lion.jpg)
 
 Today is Day 8 and my inner resistance to sitting at my desk is solidifying, concretizing. Simultaneously, surprisingly, the rest of my day is deeper, with more productive joyful experiences. This change feels a tad miraculous, like drinking the antidote and discovering you'd been poisoned for years.
 

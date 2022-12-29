@@ -2,11 +2,11 @@
 title: "Doing enough: the first of many"
 date:   2019-12-28 16:40:35 +0300
 lastmod:   2019-12-28 16:40:35 +0300
-#tags:   Doing
+tags:  ["Doing"]
 summary: "In which I demonstrate my unrealistic relationship with TODO lists and wonder if, maybe, that relationship will change this year. Maybe."
 categories: ["Year of Enough"]
+images: ["/images/todo-postits.jpg"]
 ---
-![Todo postits](/images/todo-postits.jpg)
 
 This is a "coming out" post. I *really* wanted to skip writing this morning, knowing I'd probably write about this. I worry that too many enjoyable things to do is the very definition of "first world problem." Granted, I like being productive and others tell me (constantly) that I am. Yet, I (constantly) believe that I'm never doing enough.
 

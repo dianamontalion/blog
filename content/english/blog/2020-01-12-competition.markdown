@@ -2,11 +2,11 @@
 title: "Competition"
 date:   2020-01-12 16:40:35 +0300
 lastmod:   2020-01-12 16:40:35 +0300
-#tags:   Self-awareness
+tags:  ["Self-awareness"]
 summary: "I don't enjoy competition yet can be quite competitive. What's that about? How is competition related to being enough?"
 categories: ["Year of Enough"]
+images: ["/images/cycle-race.jpg"]
 ---
-![Cycle race](/images/cycle-race.jpg)
 
 I've begun indoor cycling, joining digital spinning classes from home. Which has made me think about competition. My relationship to the leaderboard is complicated. I simultaneously don't care about "winning" and feel badly that I'm not "winning".
 

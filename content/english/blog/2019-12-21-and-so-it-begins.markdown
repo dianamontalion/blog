@@ -4,10 +4,10 @@ date:   2019-12-21 18:05:55 +0300
 lastmod: 2019-12-21 18:05:55 +0300
 draft: false
 summary: "On this Winter Solstice, I devote myself to exploring being, doing, having Enough. And publishing consistently about the experience."
-#tags:   "Practice"
+tags:   ["Practice"]
 categories: ["Year of Enough"]
+images: ["/images/bird-limb.jpg"]
 ---
-![Bird on a limb](/images/bird-limb.jpg)
 
 > Be like a bird, who halting in her flight on a limb too slight feels it give you beneath her, yet sings (sings!) knowing she has wings. -- Libana (from poem by Victor Hugo)
 

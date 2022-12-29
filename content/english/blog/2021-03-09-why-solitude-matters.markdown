@@ -10,16 +10,6 @@ images:
 draft: true
 ---
 
----
-title: "What you need to know about Photography"
-images:
-  - "images/post/07.jpg"
-date: 2021-01-24T18:19:25+06:00
-author: "Lubana Era"
-tags: ["Photography"]
-categories: ["Photography"]
-draft: false
----
 I am in the room that was, before Covid, the guest room. The bed is gone and I'm sitting at my French-style wooden desk that I found at Restore and painted purple with Annie's Chalk paint. The upholstered chair under me also came from Restore, a perfect match for the desk, with Purple seat and back cushions added to make it comfie.
 
 Out the window, a sunny midMarch day. Chickens are singing egg songs in their coop yard, winter birds playing tag between the copses. The Magic Tree, where my husband and I devoted ourselves to this place on our fifth anniversary, is framed by the window. It's a magic tree because every late-afternoon, the sun falls just right on it and it shines/gleams.

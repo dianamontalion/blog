@@ -2,11 +2,11 @@
 title: "Making nut milk"
 date:   2020-01-07 16:40:35 +0300
 lastmod:   2020-01-07 16:40:35 +0300
-#tags:   Food
+tags:   ["Food"]
 summary: "I recently made almond milk. It was so easy, I wondered if there are other products I buy that I don't need. Which made me wonder why I love 'products' (instead of food) in the first place ..."
 categories: ["Year of Enough"]
+images: ["/images/almond-milk.jpeg"]
 ---
-![almond milk](/images/almond-milk.jpeg)
 
 Each week, we buy unsweetened [almond milk](https://www.califiafarms.com/collections/plant-milks) at the grocery store. Recently, I read a new [cookbook](https://www.powells.com/book/-9781579658021) (highly recommended) that includes a recipe for nut milk. So I tried making it. The process was:
 

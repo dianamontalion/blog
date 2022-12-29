@@ -2,11 +2,11 @@
 title: "Blurring the edges"
 date:   2020-01-04 16:40:35 +0300
 lastmod:   2020-01-04 16:40:35 +0300
-#tags:   Doing
+tags:  ["Doing"]
 summary: "Seeking work life balance suggests we don't work during the life part. We work all the time. Here is how I am blurring the edges."
 categories: ["Year of Enough"]
+images: ["/images/blur.jpg"]
 ---
-![Blur](/images/blur.jpg)
 
 During our holiday staycation, my husband and I moved our comfortable cloud sofa and our television (which only streams) into our home office. I set up my crafting supplies and furnishings behind the sofa. We spent a week in that room. In the morning, I wrote, sometimes next to my husband listening to a soccer game through his headphones. We worked on client and business projects in the afternoons. In the evenings, we painted furniture, a movie playing in the background. We fell asleep to our favorites, *The Matrix* and *Men in Black*, dogs piled on top of us, cats hissing at them to GTFO of their night space.
 

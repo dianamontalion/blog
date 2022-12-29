@@ -2,11 +2,11 @@
 title: "Notes from our home in New York"
 date:   2020-03-22 07:40:35 +0300
 lastmod:   2020-03-22 07:40:35 +0300
-#tags:   Home
+tags:  ["Home"]
 summary: "I wanted to live a Year of Enough. Now, I live in a pandemic epicenter where there is no more. Ironic, don't you think? Inside all the uncertainty, I'm discovering the seeds of enough."
 categories: ["Year of Enough"]
+images: ["/images/rainbow.jpg"]
 ---
-![Rainbow](/images/rainbow.jpg)
 
 It is 9:10 am Eastern Standard Time here in my  study. I'm typing on my macbook pro with the sticky left shift key, while reclining in my overstuffed, brown, worn, leather chair. The view out of my window is full of blue morning March sky, still-bare trees and patchy spring grass. My fuzzy sherpa lap blanket will soon make me feel too warm.
 

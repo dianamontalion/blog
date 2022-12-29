@@ -2,11 +2,11 @@
 title: "Enough of what? An exercise."
 date:   2020-01-02 16:40:35 +0300
 lastmod:   2020-01-02 16:40:35 +0300
-#tags:   Stuff
+tags:  ["Stuff"]
 summary: "A writing exercise to uncover 'enough of what?' in which I share TMI and link to cool stuff."
 categories: ["Year of Enough"]
+images: ["/images/cabin.jpg"]
 ---
-![Cabin](/images/cabin.jpg)
 
 We build our life by creating our experiences. We craft circumstances then acquire things we hope will make them comfortable and enjoyable. But we never quite settle into them, do we?
 

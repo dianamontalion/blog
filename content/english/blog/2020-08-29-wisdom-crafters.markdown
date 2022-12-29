@@ -2,11 +2,11 @@
 title: "Wisdom crafters"
 date:   2020-08-28 07:40:35 +0300
 lastmod:   2020-08-28 07:40:35 +0300
-#tags:   Self-awareness
+tags:  ["Self-awareness"]
 summary: "Wisdom crafters are seekers of a philosophic sunrise. They work hard, often in the shadows, to discover insights that change our view of things. Sometimes gently. Sometimes like a bolt of lighting."
 categories: ["Year of Enough"]
+images: ["/images/sunflower-wisdom.jpg"]
 ---
-![sunflower wisdom](/images/sunflower-wisdom.jpg)
 
 Wisdom crafters are Sunflower people. They seek emerging ideas, facing towards the philosophical sunrise. They are creators, working hard, often in the shadows, to discover insights that change our view of things. Sometimes gently. Sometimes like a bolt of lighting.
 

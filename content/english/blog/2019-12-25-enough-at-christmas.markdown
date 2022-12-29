@@ -2,11 +2,11 @@
 title:  Christmas enough
 date:  2019-12-25 16:20:35 +0300
 lastmod:  2019-12-25 16:20:35 +0300
-#tags:  Socializing
+tags:  ["Socializing"]
 summary: 'Becoming free from the empty drama of "enough" at the holidays may require years of experimentation. But what matters most is knowing that your time, energy and attention are the most valuable things.'
 categories: ["Year of Enough"]
+images: ["/images/xmas-joy-gift.jpg"]
 ---
-![Xmas joy gift](/images/xmas-joy-gift.jpg)
 
 I don't celebrate the holidays. Or, rather, I didn't celebrate for many years. During the last two weeks of December, I rest and do nourishing things I enjoy, like reading all day wearing my pjs. The shallow, surfacey, hyper-desire-full, sugar-buzziness permeating this season has never felt joyful. It has felt stressful and expectation laden. As a kid, it was also dangerously drunken. I wondered why people approached December with any thought other than "how will I hide my disappointment this year?"
 

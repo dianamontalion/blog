@@ -2,11 +2,11 @@
 title:  There's no such thing as enough sugar
 date:   2019-12-27 16:40:35 +0300
 lastmod:   2019-12-27 16:40:35 +0300
-#tags:   Food
+tags:  ["Food"]
 summary: "Imagine the holidays with no sugar, including flour and alcohol. Horrifying thought or joyful ideal? I've never enjoyed food more."
 categories: ["Year of Enough"]
+images: ["/images/veggie-bowl.jpg"]
 ---
-![Veggie Bowl](/images/veggie-bowl.jpg)
 
 Imagine the holidays with no sugar. Yes, I mean the white stuff or brown-colored white stuff. I also mean edible things your body interprets as sugar: grains (almost all flours), lactose (a glass of milk), super starchy vegetables like white potatoes, fake sweeteners (ewww) and alcohol (aka crack sugar). Imagine the holidays without those?
 

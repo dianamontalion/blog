@@ -3,11 +3,11 @@ title: "Asking for help"
 date:   2020-01-15 16:40:35 +0300
 lastmod:   2020-01-15 16:40:35 +0300
 image: huddle.jpg
-#tags:   Doing
+tags:  ["Doing"]
 summary: "When I hoard todos and refuse to ask for help, I stifle the Enough Economy.  A lesson I recently learned for the bazillionth time."
 categories: ["Year of Enough"]
+images: ["/images/huddle.jpg"]
 ---
-![Huddle](/images/huddle.jpg)
 
 This weekend, I hired a developer to finish coding our new website. That was difficult for me to do. I called it "waving the white flag" rather than what is actually was, which is "what I should have done in the fricken first place." I honestly believe that I *should* do everything that I *can* do. Yes, I know, that's impossible. Truly. Yet, I am a blockhead and must relearn this lesson again and again.
 
