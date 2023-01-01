@@ -6,21 +6,28 @@
         {{ if .enable }}
         <div class="newsletter-block font-primary">
           <h3 class="h4 mb-4 text-white text-center">{{ .title | markdownify }}</h3>
-          <form class="px-0 px-sm-3 px-md-5" action="{{ .mailchimp_form_action }}" method="post" name="mailchimp_form_name" target="_blank">
+          <form class="px-0 px-sm-3 px-md-5" action="https://montalion.us21.list-manage.com/subscribe/post?u=586f18336ca61160e83b1491f&amp;id=63655d5f64&amp;f_id=00ffcfe1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div class="input-group">
-              <input form="subscription" type="text" class="form-control" placeholder="{{ .input_placeholder }}" aria-label="Subscription" required autocomplete="new-email">
+              <input form="subscription" type="email" value="" name="EMAIL" class="form-control" placeholder="{{ .input_placeholder }}" aria-label="Subscription" required autocomplete="new-email">
               <div class="input-group-append">
-                <button type="submit" name="subscription" class="input-group-text h-100" aria-label="Subscription Button"><i class="icon fas fa-paper-plane" style="font-size:15px"></i></button>
+                <button type="submit" name="subscribe" value="Subscribe" id="{{ .mailchimp_form_name }}" class="input-group-text h-100" aria-label="Subscription Button"><i class="icon fas fa-paper-plane" style="font-size:15px"></i></button>
               </div>
             </div>
+            <div id="mce-responses" class="clear foot">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
-              <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
+              <input type="text" name="{{ .mailchimp_form_pixel }}" tabindex="-1" value="">
             </div>
           </form>
         </div>
         {{ end }}
         {{ end }}
-      </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
       <div class="col-lg-12 text-center mt-5">
         <ul class="list-inline footer-menu mb-4">
           {{ range site.Menus.footer }}
@@ -29,7 +36,7 @@
         </ul>
         <ul class="social-links icon-box list-unstyled list-inline font-weight-500 mb-3">
           {{range site.Params.social}}
-          <li class="list-inline-item text-center"><a href="{{.url}}" aria-label="social-icon">
+          <li class="list-inline-item text-center"><a href="{{.link}}" aria-label="social-icon">
             <i class="lab {{.icon}}"></i>
           </a></li>
           {{end}}
@@ -38,4 +45,5 @@
       </div>
     </div>
   </div>
+  
 </footer>

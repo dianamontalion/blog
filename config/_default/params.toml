@@ -48,11 +48,12 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-title = "Subscribe for our monthly newsletter."
+mailchimp_form_action = "https://montalion.us21.list-manage.com/subscribe/post?u=586f18336ca61160e83b1491f&amp;id=63655d5f64&amp;f_id=00ffcfe1f0" # replace this url with yours
+mailchimp_form_name = "mc-embedded-subscribe-form" # replace this code with yours
+mailchimp_form_pixel = "b_586f18336ca61160e83b1491f_63655d5f64"
+title = "Subscribe to my monthly newsletter."
 input_placeholder = "Enter your email"
 
 # Crisp Chat
@@ -128,26 +129,26 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["search", "categories", "tags", "social"]
+sidebar = ["social", "categories", "tags"]
 # available widget : search,categories,tags,recent-post
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "mastodon"
+icon = "fab fa-mastodon"  # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://hachyderm.io/@diana"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.twitter.com/dianamontalion"
 
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "mentrix"
+icon = "fab fa-solid fa-infinity" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://mentrixgroup.com/"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/dianamontalion/"

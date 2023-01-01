@@ -1,18 +1,18 @@
 ---
 title: "Diana Montalion"
-image: "images/author/author-2.jpg"
-email: "sojonatmail@gmail.com"
+image: "images/author/bio-pic.png"
+email: "dianamontalion@gmail.com"
 date: 2021-02-02T10:20:19+06:00
 draft: false
 social:
-- icon: "fab fa-facebook-f" # https://fontawesome.com/
-  link: "https://facebook.com"
-- icon: "fab fa-twitter" # https://fontawesome.com/
-  link: "https://twitter.com"
-- icon: "fab fa-instagram" # https://fontawesome.com/
-  link: "https://linkedin.com"
+- link: "https://hachyderm.io/@diana"
+  icon: "fab fa-mastodon"
+- link: "https://www.twitter.com/dianamontalion"
+  icon: "fab fa-twitter"
+- link: "https://www.linkedin.com/in/dianamontalion/"
+  icon: "fab fa-linkedin"
+- link: "https://mentrixgroup.com/"
+  icon: "fab fa-solid fa-infinity"
 ---
 
-Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Thank you for dropping by to read some of my writing. I hope you'll reach out via social media or join me at an [upcoming event](/events/)!

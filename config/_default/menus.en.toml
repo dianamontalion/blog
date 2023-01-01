@@ -45,11 +45,6 @@ url = "categories/"
 name = "Themes"
 
 [[footer]]
-weight = 3
-url = "privacy/"
-name = "Privacy"
-
-[[footer]]
 weight = 4
-url = "terms-conditions/"
-name = "Terms & Conditions"
+url = "tags/"
+name = "Topics"
