@@ -1,9 +1,9 @@
 ---
-title: "Why Solitude Matters"
+title: “Solitude Matters"
 author: "Diana Montalion"
 date: 2021-03-09T09:17:00
 lastmod: 2021-03-09 07:40:35 +0300
-summary: "This week, my intention was to be more mindful when attending online work meetings. As I did, I noticed something: I’ve constructed a Me Who Goes to Meetings."
+summary: "XX”
 categories: ["Mindful Work"]
 tags: ["Mindful Work"]
 images: 
