@@ -2,7 +2,6 @@
 title: “Solitude Matters"
 author: "Diana Montalion"
 date: 2021-03-09T09:17:00
-lastmod: 2021-03-09 07:40:35 +0300
 summary: "XX”
 categories: ["Mindful Work"]
 tags: ["Mindful Work"]

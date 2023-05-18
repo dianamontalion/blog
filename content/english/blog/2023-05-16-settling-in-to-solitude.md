@@ -45,3 +45,4 @@ Off, then, I go to nowhere, to make a cup of tea. To publish this post and work 
 I love my life. Truly deeply madly. I don’t need anything more right now. I don’t even want anything more than focus, the joyful creation of things that I truly trust matter to do. (Except, maybe, Basque Cheesecake. I want more Basque Cheesecake.) My pleasure-seeking brain still balks at doing yoga or opening my laptop. I wonder if I’ll always feel resistance, distracted by the desire to go elsewhere, do something else, even when everything I need or want is here. Perhaps. 
 
 Perhaps all I can ever do is practice coming home.
+
