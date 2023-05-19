@@ -1,9 +1,9 @@
 ---
-title: “The Joy of Solitude"
-author: "Diana Montalion"
+title: The Joy of Solitude
+author: Diana Montalion
 date: 2023-05-18 09:17:00 +0300
 lastmod: 2023-05-18 07:40:35 +0300
-summary: "I resist bringing my full attention back to focused work, like a toddler who doesn’t want her face washed. Even though, focus is joy.”
+summary: I resist bringing my full attention back to focused work, like a toddler who doesn’t want her face washed. Even though, focus is joy.
 categories: ["Mindful Work"]
 tags: ["Mindful Work"]
 images: 
